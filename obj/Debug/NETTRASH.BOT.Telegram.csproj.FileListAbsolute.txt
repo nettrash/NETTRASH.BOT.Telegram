@@ -1,0 +1,16 @@
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\NETTRASH.BOT.Telegram.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\NETTRASH.BOT.Telegram.pdb
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\NLog.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\System.Net.Http.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\bin\Debug\NLog.xml
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\obj\Debug\NETTRASH.BOT.Telegram.csproj.CoreCompileInputs.cache
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\obj\Debug\NETTRASH.BOT.Telegram.dll
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\obj\Debug\NETTRASH.BOT.Telegram.pdb
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\obj\Debug\NETTRASH.BOT.Telegram.csproj.CopyComplete
+D:\VisualStudio.com\SIBPAY\NETTRASH.SIB\NETTRASH.BOT.Telegram\obj\Debug\NETTRASH.BOT.Telegram.csprojAssemblyReference.cache
